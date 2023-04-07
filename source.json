@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
+    "name":"awesome-vcc-packages",
     "id":"com.graaaaa.awesome-vcc-packages",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://graaaaaaa.github.io/awesome-vcc-packages/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"graaaaaaavr@gmail.com",
+        "name":"graaaaa",
+        "url":"https://graaaaaaa.github.io"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"Awesome list of VCC packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/graaaaaaa/awesome-vcc-packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
